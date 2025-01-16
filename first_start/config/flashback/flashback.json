@@ -1,0 +1,27 @@
+{
+  "automaticallyStart": false,
+  "automaticallyFinish": true,
+  "showRecordingToasts": true,
+  "quicksave": false,
+  "hidePauseMenuControls": false,
+  "markDimensionChanges": true,
+  "recordHotbar": false,
+  "localPlayerUpdatesPerSecond": 20,
+  "recordVoiceChat": false,
+  "openedWindows": [],
+  "nextUnsupportedModLoaderWarning": 0,
+  "flightCameraDirection": false,
+  "flightMomentum": 1.0,
+  "flightLockX": false,
+  "flightLockY": false,
+  "flightLockZ": false,
+  "flightLockYaw": false,
+  "flightLockPitch": false,
+  "recentReplays": [
+    "/home/zh0raaa/.minecraft/home/Quilt 1.21.1/flashback/replays/Я_крутой.zip"
+  ],
+  "defaultExportFilename": "%date%T%time%",
+  "defaultInterpolationType": "SMOOTH",
+  "replaySorting": "CREATED_DATE",
+  "sortDescending": false
+}

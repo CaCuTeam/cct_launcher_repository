@@ -2,13 +2,15 @@
   "id": "Quilt 1.21.1",
   "jar": "1.21.1",
   "family": "Fabric-1.21",
-  "time": "2025-01-16T22:22:11.956Z",
+  "time": "2025-07-26T14:34:48.537Z",
   "releaseTime": "2024-08-08T12:24:45Z",
   "type": "modified",
   "mainClass": "org.quiltmc.loader.impl.launch.knot.KnotClient",
+  "minimumLauncherVersion": 21,
+  "tlauncherVersion": 11,
   "libraries": [
     {
-      "name": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
+      "name": "net.fabricmc:sponge-mixin:0.15.5+mixin.0.8.7",
       "url": "https://maven.fabricmc.net/"
     },
     {
@@ -16,23 +18,23 @@
       "url": "https://maven.quiltmc.org/repository/release/"
     },
     {
-      "name": "org.ow2.asm:asm:9.7.1",
+      "name": "org.ow2.asm:asm:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-analysis:9.7.1",
+      "name": "org.ow2.asm:asm-analysis:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-commons:9.7.1",
+      "name": "org.ow2.asm:asm-commons:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-tree:9.7.1",
+      "name": "org.ow2.asm:asm-tree:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-util:9.7.1",
+      "name": "org.ow2.asm:asm-util:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
@@ -48,7 +50,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.quiltmc:quilt-loader:0.27.1",
+      "name": "org.quiltmc:quilt-loader:0.29.1",
       "url": "https://maven.quiltmc.org/repository/release/"
     },
     {
@@ -1453,12 +1455,12 @@
     }
   },
   "assetIndex": {
-    "totalSize": 802542178,
+    "totalSize": 807979103,
     "id": "17",
     "known": true,
-    "url": "https://piston-meta.mojang.com/v1/packages/7cedb23305a218c4d1a58d27e7ad8a86ee495d48/17.json",
-    "sha1": "7cedb23305a218c4d1a58d27e7ad8a86ee495d48",
-    "size": 448567
+    "url": "https://piston-meta.mojang.com/v1/packages/094829a183396053fbd8a892ee9f0c996b28f3c3/17.json",
+    "sha1": "094829a183396053fbd8a892ee9f0c996b28f3c3",
+    "size": 448863
   },
   "assets": "17",
   "arguments": {

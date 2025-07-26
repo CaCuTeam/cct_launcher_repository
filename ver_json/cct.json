@@ -6,7 +6,6 @@
   "releaseTime": "2024-08-08T12:24:45Z",
   "type": "modified",
   "mainClass": "org.quiltmc.loader.impl.launch.knot.KnotClient",
-  "minimumLauncherVersion": 21,
   "libraries": [
     {
       "name": "net.fabricmc:sponge-mixin:0.15.5+mixin.0.8.7",
